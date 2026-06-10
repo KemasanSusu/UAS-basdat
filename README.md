@@ -1,4 +1,4 @@
-readme_content = """# Laporan UAS Basis Data - Sistem Informasi Perpustakaan
+# Laporan UAS Basis Data - Sistem Informasi Perpustakaan
 
 Repositori ini dibuat untuk memenuhi tugas Ujian Akhir Semester (UAS) mata kuliah Basis Data. Projek ini mencakup perancangan, normalisasi, implementasi DDL/DML, serta pembuatan aplikasi CRUD sederhana menggunakan Python dan PHP.
 
